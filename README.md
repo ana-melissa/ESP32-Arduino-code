@@ -1,1 +1,6 @@
 # ESP32-Arduino-code
+
+# Link to google spreadsheet:
+
+# Sources
+https://www.youtube.com/redirect?event=video_description&redir_token=QUFFLUhqbHI4ZWN5azFEa2pPZWMxMV91YkpDYjVRd01tQXxBQ3Jtc0tsTllWbFd6UjRYd2hLNG40QWY4OGhTa2pTY2RYcjJQaWhlYk00WFJyT0pURVJaMHZpVm5wdEFhLWowYjhvQXFMQU1PZ2xiMnA3SzdNb2NlRjh4X1c2cFFjX2I2c0xmMzdIeGVSN050djhqWmcxaG1CMA&q=https%3A%2F%2Fgithub.com%2Funreeeal%2FESP32%2Ftree%2Fmaster%2FESP32%2520RFID&v=xeHBKi0GLow
